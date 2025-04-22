@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#API_KEY = $1
-#echo "API Key: $API_KEY"
+API_KEY = $1
+echo "API Key: $API_KEY"
 
 # this pulls data from the NY Times developer api through the 'Data Science at the Command Line' book linux environment
 #script adapted from 'Data Science at the Command Line' book

@@ -11,6 +11,8 @@ Answer the following questions with your script and have any words to support yo
 Answer the following for each file.
 
 1. List the top 10 web sites from which requests came (non-404 status).
+
+
 2. What percentage of host requests came from IP vs hostname?
 3. List the top 10 requests (non-404 status).
 4. List the most frequent request types? 
